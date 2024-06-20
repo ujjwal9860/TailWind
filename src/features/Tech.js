@@ -4,7 +4,7 @@ import { DiAtom, DiCodepen, DiCss3Full, DiPython, DiReact, DiSwift } from "react
 
 const Tech = () => {
   return (
-    <div className='grid grid-cols-4 justify-items-center lg:g:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
+    <div className='grid grid-cols-4 justify-items-center lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
 
 
       <DiReact size={200} className='hover:scale-110 hover:text-pink-700 transition-all ease-in' />
